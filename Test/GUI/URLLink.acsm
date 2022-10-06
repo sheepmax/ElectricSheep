@@ -1,0 +1,28 @@
+<fulfillmentToken fulfillmentType="buy" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:10f29be3-5a0c-4c83-aa86-4b4fd67ff954</distributor>
+  <operatorURL>http://acs.tagusbooks.com/fulfillment</operatorURL>
+  <transaction>DiBJTWTmQ9q8MStTa1596482547584</transaction>
+  <expiration>2020-08-06T21:22:27+02:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:0e0c20c4-a28e-4641-bb80-d02e893282fd</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Loba negra</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Juan Gómez-Jurado</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">LIBRANDA RANDOM</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">urn:isbn:9788466666619</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/epub+zip</dc:format>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">es</dc:language>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:0e0c20c4-a28e-4641-bb80-d02e893282fd</resource>
+      <permissions>
+        <display/>
+        <excerpt/>
+        <print/>
+        <play/>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>WFMc9fV4hL0eFIc+w110XVhF4AY=</hmac>
+</fulfillmentToken>
